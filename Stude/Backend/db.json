@@ -1,0 +1,22 @@
+{
+  "escola": [
+    {
+      "id": 1,
+      "escola": "UNISAL - Unidade Campinas - São José",
+      "endereco": "Av. Almeida Garret, 267 - Jardim Nossa Sra. Auxiliadora, Campinas - SP, 13087-290",
+      "telefone": "(19) 3744-3100"
+    },
+    {
+      "id": 2,
+      "escola": "UNISAL - Campus Maria Auxiliadora -  Americana",
+      "endereco": "Av. de Cillo, 3500 - Parque Universitario, Americana - SP, 13467-600",
+      "telefone": "(19) 3471-3110"
+    },
+    {
+      "id": 3,
+      "escola": "UNISAL - Dom bosco -  Americana",
+      "endereco": "R. Pau Brasil, 269-201 - Vila Sao Pedro, Americana - SP, 13466-500",
+      "telefone": "(19) 3471-3120"
+    }
+  ]
+}
