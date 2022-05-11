@@ -30,6 +30,9 @@ import { MatSortModule } from '@angular/material/sort';
 import localePt from '@angular/common/locales/pt';
 import { registerLocaleData } from  '@angular/common';
 import { HomeComponent } from './views/home/home.component';
+import { SobreComponent } from './views/sobre/sobre.component';
+import { CadastroComponent } from './views/cadastro/cadastro.component';
+import { RestritoComponent } from './views/restrito/restrito.component';
 
 
 registerLocaleData(localePt);
@@ -41,15 +44,10 @@ registerLocaleData(localePt);
     FooterComponent,
     NavComponent,
     HomeComponent,
-   // HomeComponent,
-   // ProductCrudComponent,
-   // ProductCreateComponent,
-   // ProductReadComponent,
-   // ProductRead2Component,
-   // RedDirective,
-   // ForDirective,
-   // ProductUpdateComponent,
-    //ProductDeleteComponent,
+    SobreComponent,
+    CadastroComponent,
+    RestritoComponent,
+ 
   ],
   imports: [
     BrowserModule,
